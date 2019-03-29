@@ -1,0 +1,26 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "NodeJs Express and Anjular2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "nodemon": "nodemon app"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "fs": "0.0.1-security",
+    "multer": "^1.4.1",
+    "nodemon": "*"
+  },
+  "keywords": [
+    "Express",
+    "With",
+    "Angular2"
+  ],
+  "author": "Abdul Razack",
+  "license": "ISC"
+}
